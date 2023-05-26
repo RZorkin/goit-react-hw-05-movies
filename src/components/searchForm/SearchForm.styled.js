@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const SearchForm = styled.form`
   display: flex;
-  width: 300px;
+  width: 400px;
 `;
 
 export const SearchInput = styled.input`
